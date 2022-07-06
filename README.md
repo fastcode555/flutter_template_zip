@@ -1,7 +1,8 @@
 # getx_templates.zip
 
 - 普通getx 支持
-  ![Alt](pic/getx_templates.png)
+  </br>
+- ![Alt](pic/getx_templates.png)
 
 # getx_fab_menu_dark_light_theme_support.zip
 
