@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="flutter_template_zip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/getx_templates.zip!/" />
+      <root url="jar://$PROJECT_DIR$/getx_fab_menu_dark_light_theme_support.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
