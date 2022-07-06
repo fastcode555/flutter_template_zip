@@ -8,6 +8,6 @@
 - 创建侧滑菜单
 - 支持深色跟亮色模式
 </br>
-  ![Alt](pic/getx_fab_menu_dark_light_theme_support.png)
-  ![Alt](pic/getx_fab_menu_dark_light_theme_support_2.png#pic_center)
-  ![Alt](pic/getx_fab_menu_dark_light_theme_support_3.png#pic_right)
+- ![Alt](pic/getx_fab_menu_dark_light_theme_support.png)
+- ![Alt](pic/getx_fab_menu_dark_light_theme_support_2.png#pic_center)
+- ![Alt](pic/getx_fab_menu_dark_light_theme_support_3.png#pic_right)
